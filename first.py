@@ -20,5 +20,7 @@ a = 12
 print(type(a))
 
 b = 1.56
+c = 12/4
 print(type(b))
+print(type(c))
 

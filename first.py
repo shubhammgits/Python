@@ -5,9 +5,20 @@ multiline docstring and not comment!"""
 print("Namaste!")
 
 
+#Variables:
 sher = "Cheetah hi kehde"
 
 shubhamKumar = "Camel case"
 ShubhamKumar = "Pascal case"
 shubham_kumar = "Snake case"
+
+
+
+#Data Types:
+
+a = 12
+print(type(a))
+
+b = 1.56
+print(type(b))
 

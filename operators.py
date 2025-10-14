@@ -46,3 +46,22 @@ print(5!=6)
 
 print(23>23)
 print(43>=43)
+
+
+print(ord("A"))
+print(ord("B"))
+
+print("AA" == "AA")
+print("AB" > "A")
+
+
+
+
+
+
+
+#Logical Operators
+
+
+print(34 == 34  and  44 != 44)
+print(34 == 34  or  44 != 44)

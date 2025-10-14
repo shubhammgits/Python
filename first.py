@@ -52,3 +52,7 @@ print(f'Gender = {gender}')
 
 marks = int(input("What is your marks? "))
 print(f"Marks = {marks}")
+
+
+
+

@@ -19,3 +19,27 @@ print(12+4/2)               #BODMAS rule
 
 
 #Assignment Operators
+
+a = 5
+
+a += 20
+
+a -= 20
+
+a *= 5
+
+a /= 4
+
+print(a)
+
+
+
+
+
+
+#Comparison Operators
+
+print(5==6)
+print(5==5)
+
+print(5!=6)

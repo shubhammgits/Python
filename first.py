@@ -32,5 +32,15 @@ print(type(c))
 
 #Implicit Type Conversion
 
-num1 = 12
-print(num1/6)                 #float
+num = 12
+print(num/6)                 #float
+
+
+
+
+
+
+#Input Output
+
+name = input("Enter your name: ")
+print("Hello,", name,"!")

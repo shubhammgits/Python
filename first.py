@@ -26,3 +26,11 @@ c = 12/4
 print(type(b))
 print(type(c))
 
+
+
+
+
+#Implicit Type Conversion
+
+num1 = 12
+print(num1/6)                 #float

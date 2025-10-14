@@ -65,3 +65,8 @@ print("AB" > "A")
 
 print(34 == 34  and  44 != 44)
 print(34 == 34  or  44 != 44)
+
+print(not(45 == 45))
+
+
+

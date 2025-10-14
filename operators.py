@@ -43,3 +43,6 @@ print(5==6)
 print(5==5)
 
 print(5!=6)
+
+print(23>23)
+print(43>=43)

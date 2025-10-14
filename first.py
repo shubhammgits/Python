@@ -46,3 +46,9 @@ name = "Shubham"
 age = 23
 
 print(f"Hello, My name is {name} and I am {age} years old!")
+
+gender = input("What is your gender? ")
+print(f'Gender = {gender}')
+
+marks = int(input("What is your marks? "))
+print(f"Marks = {marks}")

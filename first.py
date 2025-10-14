@@ -42,5 +42,7 @@ print(num/6)                 #float
 
 #Input Output
 
-name = input("Enter your name: ")
-print("Hello,", name,"!")
+name = "Shubham"
+age = 23
+
+print(f"Hello, My name is {name} and I am {age} years old!")

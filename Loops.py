@@ -43,3 +43,9 @@ n = len(a)
 
 for i in range(0,n,1):
     print(a[i])
+
+
+b = "KUMAR"
+
+for i in b:
+    print(i)

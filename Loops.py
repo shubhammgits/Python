@@ -36,3 +36,10 @@ n = 89
 for i in range(n, (n*10)+1, n):
     print(i)
 
+
+a = "SHUBHAM"
+
+n = len(a)
+
+for i in range(0,n,1):
+    print(a[i])

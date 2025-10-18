@@ -32,20 +32,28 @@
 
 
 
-n = 89
-for i in range(n, (n*10)+1, n):
-    print(i)
+# n = 89
+# for i in range(n, (n*10)+1, n):
+#     print(i)
 
 
-a = "SHUBHAM"
+# a = "SHUBHAM"
 
-n = len(a)
+# n = len(a)
 
-for i in range(0,n,1):
-    print(a[i])
+# for i in range(0,n,1):
+#     print(a[i])
 
 
-b = "KUMAR"
+# b = "KUMAR"
 
-for i in b:
-    print(i)
+# for i in b:
+#     print(i)
+
+
+
+for i in range(1,21):
+    if(i==5):
+        break
+    else:
+        print(i)

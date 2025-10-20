@@ -1,4 +1,4 @@
 n = int(input("Enter any number :"))
 
-for i in range(n+1):
+for i in range(n):
     print("Hello World!")

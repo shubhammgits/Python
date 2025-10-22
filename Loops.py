@@ -59,8 +59,19 @@
 #         print(i)
 
 
-for i in range(1,10):
-    if(i==5 or i==7):
-        continue
-    else:
-        print(i)
+# for i in range(1,10):
+#     if(i==5 or i==7):
+#         continue
+#     else:
+#         print(i)
+
+
+
+
+
+
+
+a=1
+while a <= 10:
+    print(a)
+    a += 1

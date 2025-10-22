@@ -1,4 +1,12 @@
-def greet():
-    print("This is a greet functions!")
+# # def greet(name):
+# #     print(f"Hello {name}, This is a greet functions!")
 
-greet()
+# # greet("Shubham")
+
+
+
+
+# def sum(num1, num2):
+#     print(f"Sum of {num1} and {num2} = {num1+num2}")
+
+# sum(5,6)

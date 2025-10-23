@@ -39,6 +39,16 @@
 # print(nums.pop(3))
 # print(nums)
 
+# nums.remove(5)
+# print(nums)
+
+# nums.clear()
+# print(nums)
+
+
+
+
+
 
 
 
